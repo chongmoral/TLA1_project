@@ -28,4 +28,6 @@ incomeTableBody.insertAdjacentHTML("beforeend", newRowHTML);
 categoryNameInput.value = "";
 categoryDescInput.value = "";
 categoryNameInput.focus();
+
+
 }
